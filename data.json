@@ -1,0 +1,564 @@
+[
+{
+    "nome":"Era uma vez na America",
+    "sinopse": "Dirigido por Sergio Leone e também seu último filme, Era uma vez na America conta a história de um gangstêr que após ser culpado pelo assassinato de seus companheiros, foge de sua cidade. 30 anos depois, velho e cheio de arrependimentos, ele volta para tentar descobrir o que aconteceu, enquanto enfrenta seu passado sombrio.",
+    "sobre": "Desde antes da pré-produção este era um projeto ambicioso, o diretor Sergio Leone recusou O podoreso chefão para dirigir este que é a adaptaçaõ do livro The Hooks. A produção inteira demorou 20 anos para ser concluida com sua versão final tendo 6 horas de duração. Leone planejava dividir o filme em duas partes com cada uma tendo 3 horas, mas a produtora do filme, a Ladd Company, não viu como um filme desse escopo poderia ter um bom retorno financeiro, então, eles fizeram com que a duração fosse reduzida a 2 horas. Essa edição arruinou o filme deixando-o confuso fazendo-o parecer apenas mais um filme de mafia genérico, reultando em um fracasso de bilheteria. Os críticos citaram o filme como um dos piores da década. Apenas em 2012 sua versão final foi recuperada e exibida pela primeira vez no festival de Cannes do mesmo ano, e assim, passou a ser considerado um dos melhores filmes da história.",
+    "ano": 1984,
+    "nota_imdb": 8.6,
+    "genero": ["Crime", "Drama"],
+    "link": "https://www.imdb.com/pt/title/tt0087843/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/ojfEiNOBX7eqh4fDhRhNDTwb38R.jpg"
+},
+{
+    "nome": "O Poderoso Chefão",
+    "sinopse": "O patriarca de uma poderosa família do crime organizado em Nova York transfere o controle de seu império clandestino para seu relutante filho mais novo.",
+    "sobre": "Dirigido por Francis Ford Coppola, este filme é uma adaptação do romance de Mario Puzo. É amplamente considerado um dos maiores e mais influentes filmes de todos os tempos, definindo o gênero de gângster.",
+    "ano": 1972,
+    "nota_imdb": 9.2,
+    "genero": ["Crime", "Drama"],
+    "link": "https://www.imdb.com/title/tt0068646/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg"
+},
+{
+    "nome": "Um Sonho de Liberdade",
+    "sinopse": "Dois homens presos se unem ao longo de vários anos, encontrando consolo e eventual redenção através de atos de decência comum.",
+    "sobre": "Baseado na novela 'Rita Hayworth and the Shawshank Redemption' de Stephen King, o filme de Frank Darabont é aclamado por sua narrativa emocionante e atuações poderosas, consistentemente classificado no topo das listas de melhores filmes.",
+    "ano": 1994,
+    "nota_imdb": 9.3,
+    "genero": ["Drama"],
+    "link": "https://www.imdb.com/title/tt0111161/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg"
+},
+{
+    "nome": "Pulp Fiction: Tempo de Violência",
+    "sinopse": "As vidas de dois assassinos de aluguel, um boxeador, a esposa de um gângster e um casal de bandidos se entrelaçam em quatro contos de violência e redenção.",
+    "sobre": "O filme de Quentin Tarantino é famoso por sua narrativa não linear e diálogo estilizado. Revitalizou a carreira de John Travolta e é uma pedra angular do cinema independente dos anos 90.",
+    "ano": 1994,
+    "nota_imdb": 8.9,
+    "genero": ["Crime", "Drama"],
+    "link": "https://www.imdb.com/title/tt0110912/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg"
+},
+{
+    "nome": "O Cavaleiro das Trevas",
+    "sinopse": "Quando a ameaça conhecida como Coringa emerge de seu passado misterioso, ele causa estragos e caos nas pessoas de Gotham. O Cavaleiro das Trevas deve aceitar um dos maiores testes psicológicos e físicos de sua capacidade de lutar contra a injustiça.",
+    "sobre": "Dirigido por Christopher Nolan, este filme é frequentemente citado como um dos melhores filmes de super-heróis. A performance de Heath Ledger como o Coringa lhe rendeu um Oscar póstumo de Melhor Ator Coadjuvante.",
+    "ano": 2008,
+    "nota_imdb": 9.0,
+    "genero": ["Ação", "Crime", "Drama", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt0468569/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg"
+},
+{
+    "nome": "A Lista de Schindler",
+    "sinopse": "Na Polônia ocupada pelos alemães durante a Segunda Guerra Mundial, o industrial Oskar Schindler gradualmente se preocupa com sua força de trabalho judaica depois de testemunhar sua perseguição pelos nazistas.",
+    "sobre": "O filme de Steven Spielberg é um drama histórico comovente que ganhou sete Oscars, incluindo Melhor Filme e Melhor Diretor. É filmado quase inteiramente em preto e branco.",
+    "ano": 1993,
+    "nota_imdb": 9.0,
+    "genero": ["Biografia", "Drama", "História"],
+    "link": "https://www.imdb.com/title/tt0108052/",
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg"
+},
+{
+    "nome": "Forrest Gump: O Contador de Histórias",
+    "sinopse": "As presidências de Kennedy e Johnson, o Vietnã, Watergate e outros eventos históricos se desenrolam através da perspectiva de um homem do Alabama com um QI de 75, cujo único desejo é se reunir com seu amor de infância.",
+    "sobre": "Estrelado por Tom Hanks, este filme de Robert Zemeckis foi um enorme sucesso comercial e de crítica, ganhando seis Oscars, incluindo Melhor Filme, Melhor Diretor e Melhor Ator para Hanks.",
+    "ano": 1994,
+    "genero": ["Drama", "Romance"],
+    "nota_imdb": 8.8,
+    "link": "https://www.imdb.com/title/tt0109830/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/d74WpIsH8379TIL4wUxDneRCYv2.jpg"
+},
+{
+    "nome": "Clube da Luta",
+    "sinopse": "Um trabalhador de escritório insone e um fabricante de sabão diabólico formam um clube de luta clandestino que evolui para algo muito, muito maior.",
+    "sobre": "Dirigido por David Fincher e baseado no romance de Chuck Palahniuk, o filme se tornou um clássico cult, conhecido por seu final surpreendente e crítica à cultura do consumidor.",
+    "ano": 1999,
+    "nota_imdb": 8.8,
+    "genero": ["Drama"],
+    "link": "https://www.imdb.com/title/tt0137523/",
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/r3pPehX4ik8NLYPpbDRAh0YRtMb.jpg"
+},
+{
+    "nome": "A Origem",
+    "sinopse": "A um ladrão que rouba segredos corporativos através do uso da tecnologia de compartilhamento de sonhos é dada a tarefa inversa de plantar uma ideia na mente de um C.E.O.",
+    "sobre": "Outro sucesso de Christopher Nolan, este filme de ficção científica é elogiado por sua originalidade, elenco e visuais impressionantes, explorando as profundezas da mente e da realidade.",
+    "ano": 2010,
+    "nota_imdb": 8.8,
+    "genero": ["Ação", "Aventura", "Sci-Fi"],
+    "link": "https://www.imdb.com/title/tt1375666/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg"
+},
+{
+    "nome": "O Senhor dos Anéis: O Retorno do Rei",
+    "sinopse": "Gandalf e Aragorn lideram o Mundo dos Homens contra o exército de Sauron para desviar seu olhar de Frodo e Sam, que se aproximam da Montanha da Perdição com o Um Anel.",
+    "sobre": "O filme de Peter Jackson é a conclusão da épica trilogia. Foi o primeiro e único filme de fantasia a ganhar o Oscar de Melhor Filme, e detém o recorde de mais Oscars ganhos por um único filme, com 11 prêmios.",
+    "ano": 2003,
+    "nota_imdb": 9.0,
+    "genero": ["Ação", "Aventura", "Fantasia"],
+    "link": "https://www.imdb.com/title/tt0167260/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg"
+},
+{
+    "nome": "12 Homens e uma Sentença",
+    "sinopse": "Um jurado dissidente tenta impedir um erro judicial, forçando seus colegas a reconsiderarem as evidências.",
+    "sobre": "Dirigido por Sidney Lumet, este drama de tribunal é um estudo intenso sobre a persuasão e os preconceitos. O filme foi filmado em apenas 19 dias e é aclamado por seu roteiro e atuações.",
+    "ano": 1957,
+    "nota_imdb": 9.0,
+    "genero": ["Crime", "Drama"],
+    "link": "https://www.imdb.com/title/tt0050083/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/aiHIhV8c45FzIlbqYlswrrNyQD6.jpg"
+},
+{
+    "nome": "A Viagem de Chihiro",
+    "sinopse": "Durante a mudança de sua família para o subúrbio, uma menina de 10 anos vagueia por um mundo governado por deuses, bruxas e espíritos, e onde os humanos são transformados em bestas.",
+    "sobre": "Esta obra-prima de Hayao Miyazaki foi a primeira animação japonesa a ganhar o Oscar de Melhor Animação. O filme não tinha um roteiro pronto; Miyazaki permitiu que a história fluísse durante a produção.",
+    "ano": 2001,
+    "nota_imdb": 8.6,
+    "genero": ["Animação", "Aventura", "Família"],
+    "link": "https://www.imdb.com/title/tt0245429/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg"
+},
+{
+    "nome": "Parasita",
+    "sinopse": "A ganância e a discriminação de classe ameaçam o relacionamento simbiótico recém-formado entre a rica família Park e a pobre familia Kim.",
+    "sobre": "Dirigido por Bong Joon Ho, 'Parasita' fez história ao se tornar o primeiro filme em língua não inglesa a ganhar o Oscar de Melhor Filme. O filme é uma comédia de humor negro e suspense que critica a desigualdade social.",
+    "ano": 2019,
+    "genero": ["Comédia", "Drama", "Suspense"],
+    "nota_imdb": 8.5,
+    "link": "https://www.imdb.com/title/tt6751668/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg"
+},
+{
+    "nome": "Gladiador",
+    "sinopse": "Um ex-general romano busca vingança contra o imperador corrupto que assassinou sua família e o enviou para a escravidão.",
+    "sobre": "O épico histórico de Ridley Scott reviveu o gênero 'espada e sandália' e ganhou o Oscar de Melhor Filme. A performance de Russell Crowe como Maximus lhe rendeu o Oscar de Melhor Ator.",
+    "ano": 2000,
+    "nota_imdb": 8.5,
+    "genero": ["Ação", "Aventura", "Drama"],
+    "link": "https://www.imdb.com/title/tt0172495/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg"
+},
+{
+    "nome": "Sexta-Feira 13",
+    "sinopse": "Um grupo de monitores de acampamento é perseguido e assassinado por um assassino desconhecido enquanto tentam reabrir um acampamento de verão abandonado.",
+    "sobre": "Dirigido por Sean S. Cunningham, este filme é um dos mais icônicos do subgênero slasher. Curiosamente, o icônico vilão Jason Voorhees não é o principal antagonista neste primeiro filme; sua mãe, Pamela Voorhees, é a assassina.",
+    "ano": 1980,
+    "nota_imdb": 6.4,
+    "genero": ["Terror", "Mistério"],
+    "link": "https://www.imdb.com/title/tt0080761/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/rdrVW0qN16Ho8BDwmcqW9oLQtn3.jpg"
+},
+{
+    "nome": "Pânico",
+    "sinopse": "Um ano após o assassinato de sua mãe, uma adolescente é aterrorizada por um novo assassino, que a persegue e a seus amigos usando um filme de terror como parte de um jogo mortal.",
+    "sobre": "Dirigido por Wes Craven, 'Pânico' revitalizou o gênero de terror nos anos 90 com sua abordagem autoconsciente e metalinguística, zombando dos clichês de filmes de terror enquanto os utilizava de forma eficaz.",
+    "ano": 1996,
+    "genero": ["Terror", "Mistério"],
+    "nota_imdb": 7.4,
+    "link": "https://www.imdb.com/title/tt0117571/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/cJj2gYzkPFSqYGGOhfLgeANlXkB.jpg"
+},
+{
+    "nome": "A Hora do Pesadelo",
+    "sinopse": "O fantasma de um zelador de crianças assassinado busca vingança contra os pais que o mataram, assombrando os sonhos de seus filhos e matando-os em seus pesadelos.",
+    "sobre": "Criado por Wes Craven, o filme apresentou ao mundo um dos vilões mais icônicos do cinema, Freddy Krueger, interpretado por Robert Englund. A ideia do filme veio de uma série de artigos que Craven leu sobre um grupo de refugiados do Sudeste Asiático que morreram misteriosamente durante pesadelos.",
+    "ano": 1984,
+    "nota_imdb": 7.4,
+    "genero": ["Terror"],
+    "link": "https://www.imdb.com/title/tt0087800/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/8cXxfVhSdTL1tC5ivC0mX74QQyI.jpg"
+},
+{
+    "nome": "O Iluminado",
+    "sinopse": "Uma família vai para um hotel isolado para o inverno, onde uma presença sinistra influencia o pai à violência, enquanto seu filho psíquico vê presságios horríveis do passado e do futuro.",
+    "sobre": "Dirigido por Stanley Kubrick e baseado no romance de Stephen King, 'O Iluminado' é uma obra-prima do terror psicológico. Apesar de agora ser aclamado, Stephen King notoriamente não gostou da adaptação de Kubrick por suas divergências com o material original.",
+    "ano": 1980,
+    "genero": ["Drama", "Terror"],
+    "nota_imdb": 8.4,
+    "link": "https://www.imdb.com/title/tt0081505/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/7ceEaLciLfksJkSHqp0vLE5eLyy.jpg"
+},
+{
+    "nome": "Memórias de um Assassino",
+    "sinopse": "Em 1986, na Coreia do Sul, dois detetives locais tentam desvendar uma série de estupros e assassinatos, mas seus métodos brutais e ineficazes não levam a lugar nenhum. Um detetive de Seul é enviado para ajudar, mas o assassino continua a agir.",
+    "sobre": "Dirigido por Bong Joon Ho (de 'Parasita'), o filme é baseado nos primeiros assassinatos em série confirmados da Coreia. É aclamado por sua mistura de drama policial, comédia de humor negro e crítica social.",
+    "ano": 2003,
+    "nota_imdb": 8.1,
+    "genero": ["Crime", "Drama", "Mistério"],
+    "link": "https://www.imdb.com/title/tt0353969/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/7A7wYv8Au22XJu6n2DsRiTYUSpz.jpg"
+},
+{
+    "nome": "A Rede Social",
+    "sinopse": "Em uma noite de outono de 2003, o estudante de Harvard e gênio da programação Mark Zuckerberg senta-se em seu computador e começa a trabalhar em uma nova ideia. O que começa em seu dormitório logo se torna uma rede social global e uma revolução na comunicação.",
+    "sobre": "Dirigido por David Fincher e escrito por Aaron Sorkin, o filme narra a fundação do Facebook. Ganhou três Oscars, incluindo Melhor Roteiro Adaptado, e é elogiado por seu ritmo acelerado e diálogos afiados.",
+    "ano": 2010,
+    "genero": ["Biografia", "Drama"],
+    "nota_imdb": 7.8,
+    "link": "https://www.imdb.com/title/tt1285016/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/jXbqfVHmvCikyTw2Lf5OhKyt9Ym.jpg"
+},
+{
+    "nome": "Laranja Mecânica",
+    "sinopse": "No futuro, o líder de uma gangue de delinquentes que matam, roubam e estupram, cai nas mãos da polícia. Preso, ele recebe a opção de participar em um programa que pode reduzir o seu tempo na cadeia.",
+    "sobre": "O filme distópico de Stanley Kubrick, baseado no romance de Anthony Burgess, é uma exploração controversa da violência e do livre-arbítrio. A interpretação de Malcolm McDowell como Alex DeLarge e a estética única do filme o tornaram um clássico cult.",
+    "ano": 1971,
+    "nota_imdb": 8.3,
+    "genero": ["Crime", "Drama", "Sci-Fi"],
+    "link": "https://www.imdb.com/title/tt0066921/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/e8jIwfP8jr81UTFbh2qJVjBhIUL.jpg"
+}
+,
+{
+    "nome": "Interestelar",
+    "sinopse": "As reservas naturais da Terra estão se esgotando, e um grupo de astronautas é enviado através de um buraco de minhoca em busca de um novo lar para a humanidade.",
+    "sobre": "Dirigido por Christopher Nolan, o filme é conhecido por sua precisão científica, graças à colaboração com o físico teórico Kip Thorne, que garantiu que as representações de buracos negros e viagens no tempo fossem o mais realistas possível. O roteiro foi desenvolvido por Jonathan Nolan e Christopher Nolan. O filme ganhou o Oscar de Melhores Efeitos Visuais.",
+    "ano": 2014,
+    "genero": ["Aventura", "Drama", "Sci-Fi"],
+    "nota_imdb": 8.6,
+    "link": "https://www.imdb.com/title/tt0816692/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "O Poderoso Chefão: Parte II",
+    "sinopse": "A história de um jovem Vito Corleone crescendo na Sicília e em Nova York nos anos 1910 e a ascensão de seu filho, Michael, como o novo Don da família Corleone nos anos 1950.",
+    "sobre": "Continuação e prelúdio do filme original, é frequentemente considerado uma das melhores sequências já feitas. Foi o primeiro filme de sequência a ganhar o Oscar de Melhor Filme.",
+    "ano": 1974,
+    "nota_imdb": 9.0,
+    "genero": ["Crime", "Drama"],
+    "link": "https://www.imdb.com/title/tt0071562/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/3ViYPhSAPwH2avQjdMl49F8PklB.jpg"
+},
+{
+    "nome": "Os Bons Companheiros",
+    "sinopse": "A história de Henry Hill e sua vida no crime, cobrindo seu relacionamento com sua esposa Karen Hill e seus parceiros mafiosos Jimmy Conway e Tommy DeVito no sindicato do crime ítalo-americano.",
+    "sobre": "Dirigido por Martin Scorsese, o filme é conhecido por seu estilo de edição rápido e uso inovador de narração. É baseado no livro de não-ficção 'Wiseguy' de Nicholas Pileggi.",
+    "ano": 1990,
+    "genero": ["Biografia", "Crime", "Drama"],
+    "nota_imdb": 8.7,
+    "link": "https://www.imdb.com/title/tt0099685/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Matrix",
+    "sinopse": "Um hacker descobre pela misteriosa figura de Morpheus a chocante verdade: o mundo que ele conhece é uma simulação de computador, e ele é a chave para a libertação da humanidade.",
+    "sobre": "Dirigido pelas irmãs Wachowski, o filme foi revolucionário por seus efeitos visuais, especialmente a técnica 'bullet time'. Ganhou quatro Oscars, todos em categorias técnicas.",
+    "ano": 1999,
+    "nota_imdb": 8.7,
+    "genero": ["Ação", "Sci-Fi"],
+    "link": "https://www.imdb.com/title/tt0133093/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "O Silêncio dos Inocentes",
+    "sinopse": "Uma jovem estagiária do FBI deve contar com a ajuda de um brilhante e manipulador assassino canibal para capturar outro assassino em série, um louco que esfola suas vítimas.",
+    "sobre": "É um dos três únicos filmes a ganhar os cinco principais Oscars: Melhor Filme, Melhor Diretor, Melhor Ator, Melhor Atriz e Melhor Roteiro. A performance de Anthony Hopkins como Hannibal Lecter é icônica, apesar de ele aparecer em tela por apenas cerca de 16 minutos.",
+    "ano": 1991,
+    "genero": ["Crime", "Drama", "Suspense"],
+    "nota_imdb": 8.6,
+    "link": "https://www.imdb.com/title/tt0102926/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Cidade de Deus",
+    "sinopse": "Na favela conhecida como Cidade de Deus, no Rio de Janeiro, dois meninos seguem caminhos diferentes. Um se torna fotógrafo, e o outro, um poderoso traficante de drogas.",
+    "sobre": "Dirigido por Fernando Meirelles e Kátia Lund, o filme foi aclamado internacionalmente por seu retrato cru e energético da vida na favela. Recebeu quatro indicações ao Oscar, incluindo Melhor Diretor.",
+    "ano": 2002,
+    "nota_imdb": 8.6,
+    "genero": ["Crime", "Drama"],
+    "link": "https://www.imdb.com/title/tt0317248/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Se7en: Os Sete Crimes Capitais",
+    "sinopse": "Dois detetives, um novato e um prestes a se aposentar, caçam um assassino em série que baseia seus crimes nos sete pecados capitais.",
+    "sobre": "Dirigido por David Fincher, o filme é famoso por seu tom sombrio, atmosfera chuvosa e um dos finais mais chocantes e memoráveis da história do cinema.",
+    "ano": 1995,
+    "genero": ["Crime", "Drama", "Mistério"],
+    "nota_imdb": 8.6,
+    "link": "https://www.imdb.com/title/tt0114369/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "O Resgate do Soldado Ryan",
+    "sinopse": "Após o desembarque na Normandia, um grupo de soldados americanos se aventura em território inimigo para resgatar um paraquedista cujos três irmãos foram mortos em combate.",
+    "sobre": "Dirigido por Steven Spielberg, a sequência de abertura de 27 minutos do filme, que retrata o desembarque na Praia de Omaha, é amplamente considerada uma das cenas de batalha mais realistas e intensas já filmadas. O filme ganhou cinco Oscars, incluindo Melhor Diretor para Spielberg.",
+    "ano": 1998,
+    "nota_imdb": 8.6,
+    "genero": ["Drama", "Guerra"],
+    "link": "https://www.imdb.com/title/tt0120815/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Psicose",
+    "sinopse": "Uma secretária de Phoenix desvia 40 mil dólares do cliente de seu empregador, foge e pernoita em um motel remoto administrado por um jovem perturbado sob o domínio de sua mãe.",
+    "sobre": "Dirigido por Alfred Hitchcock, 'Psicose' é um marco no cinema de suspense.  A 'cena do chuveiro' é uma das mais famosas e estudadas da história do cinema, composta por 77 ângulos de câmera diferentes.",
+    "ano": 1960,
+    "genero": ["Terror", "Mistério", "Suspense"],
+    "nota_imdb": 8.5,
+    "link": "https://www.imdb.com/title/tt0054215/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "O Grande Truque",
+    "sinopse": "Após um trágico acidente, dois mágicos do século XIX se envolvem em uma amarga rivalidade, sacrificando tudo para superar um ao outro enquanto criam as ilusões mais perigosas.",
+    "sobre": "Dirigido por Christopher Nolan, o filme é conhecido por sua trama complexa e cheia de reviravoltas. O roteiro é baseado no romance de 1995 de Christopher Priest.",
+    "ano": 2006,
+    "nota_imdb": 8.5,
+    "genero": ["Drama", "Mistério", "Sci-Fi"],
+    "link": "https://www.imdb.com/title/tt0482571/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Casablanca",
+    "sinopse": "Um cínico expatriado americano, dono de uma boate em Casablanca durante a Segunda Guerra Mundial, reencontra uma antiga paixão e precisa decidir se a ajuda a escapar dos nazistas com seu marido, um líder da Resistência.",
+    "sobre": "Um clássico da Era de Ouro de Hollywood, o filme é famoso por suas citações icônicas, como 'Here's looking at you, kid'. Ganhou o Oscar de Melhor Filme.",
+    "ano": 1942,
+    "genero": ["Drama", "Romance", "Guerra"],
+    "nota_imdb": 8.5,
+    "link": "https://www.imdb.com/title/tt0034583/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg"
+}
+,
+{
+    "nome": "Homem de Ferro",
+    "sinopse": "Tony Stark, um industrial bilionário e inventor genial, é sequestrado e forçado a construir uma arma devastadora. Em vez disso, usando sua inteligência, Stark constrói uma armadura de alta tecnologia e escapa do cativeiro.",
+    "sobre": "Dirigido por Jon Favreau, este filme deu o pontapé inicial no Universo Cinematográfico Marvel. A escolha de Robert Downey Jr., que na época estava reconstruindo sua carreira, foi considerada arriscada, mas sua performance como Tony Stark foi universalmente aclamada e se tornou a base para o sucesso do MCU.",
+    "ano": 2008,
+    "nota_imdb": 7.9,
+    "genero": ["Ação", "Aventura", "Sci-Fi", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt0448157/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "O Incrível Hulk",
+    "sinopse": "O cientista Bruce Banner busca desesperadamente a cura para a radiação gama que envenenou suas células e o transforma, em momentos de raiva, em um monstro incontrolável.",
+    "sobre": "Este filme, estrelado por Edward Norton, tem uma conexão interessante com o restante do MCU, incluindo uma ponta de Tony Stark no final. É um dos poucos filmes do MCU em que o ator principal foi substituído em aparições futuras, com Mark Ruffalo assumindo o papel de Hulk.",
+    "ano": 2008,
+    "genero": ["Ação", "Aventura", "Sci-Fi", "Super-herói"],
+    "nota_imdb": 6.6,
+    "link": "https://www.imdb.com/title/tt0800080/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Homem de Ferro 2",
+    "sinopse": "Com o mundo agora ciente de sua identidade como Homem de Ferro, Tony Stark enfrenta pressão do governo para compartilhar sua tecnologia, enquanto lida com um novo inimigo que tem uma vingança pessoal contra a família Stark.",
+    "sobre": "O filme introduz personagens importantes para o futuro do MCU, como a Viúva Negra (Scarlett Johansson) e James 'Rhodey' Rhodes como Máquina de Combate (Don Cheadle, substituindo Terrence Howard).",
+    "ano": 2010,
+    "nota_imdb": 6.9,
+    "genero": ["Ação", "Aventura", "Sci-Fi", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt1228705/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Thor",
+    "sinopse": "O poderoso mas arrogante guerreiro Thor é banido de Asgard para a Terra, onde é forçado a viver entre os humanos. Lá, ele aprende o que é preciso para ser um verdadeiro herói.",
+    "sobre": "Dirigido por Kenneth Branagh, um renomado ator e diretor de peças de Shakespeare, o filme trouxe um tom de drama familiar e fantasia épica para o MCU, expandindo o universo para além da tecnologia e da ciência.",
+    "ano": 2011,
+    "genero": ["Ação", "Aventura", "Fantasia", "Super-herói"],
+    "nota_imdb": 7.0,
+    "link": "https://www.imdb.com/title/tt0800369/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Capitão América: O Primeiro Vingador",
+    "sinopse": "Durante a Segunda Guerra Mundial, Steve Rogers, um jovem franzino, se voluntaria para um programa experimental que o transforma no Super-Soldado conhecido como Capitão América.",
+    "sobre": "O filme é uma peça de época que estabelece a origem de um dos heróis mais importantes do MCU. Ele introduz o Tesseract, que se tornaria a primeira Joia do Infinito a aparecer proeminentemente na saga.",
+    "ano": 2011,
+    "nota_imdb": 6.9,
+    "genero": ["Ação", "Aventura", "Sci-Fi", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt0458339/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Os Vingadores",
+    "sinopse": "Nick Fury, diretor da S.H.I.E.L.D., reúne um time de super-heróis para formar os Vingadores e lutar contra Loki, que planeja subjugar a humanidade com um exército alienígena.",
+    "sobre": "Este foi o primeiro grande crossover do MCU, um evento cinematográfico sem precedentes que uniu os heróis apresentados na Fase 1. Dirigido por Joss Whedon, o filme foi um sucesso estrondoso de bilheteria e crítica.",
+    "ano": 2012,
+    "genero": ["Ação", "Aventura", "Sci-Fi", "Super-herói"],
+    "nota_imdb": 8.0,
+    "link": "https://www.imdb.com/title/tt0848228/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Homem de Ferro 3",
+    "sinopse": "Tony Stark enfrenta um inimigo poderoso, o Mandarim. Quando seu mundo é destruído, Stark deve usar sua engenhosidade para sobreviver e proteger aqueles que ama, enquanto questiona se é o homem que faz a armadura ou a armadura que faz o homem.",
+    "sobre": "Dirigido por Shane Black, o filme explora o estresse pós-traumático de Tony Stark após os eventos de Nova York. A reviravolta na identidade do vilão Mandarim foi uma das mais controversas e discutidas do MCU.",
+    "ano": 2013,
+    "nota_imdb": 7.1,
+    "genero": ["Ação", "Aventura", "Sci-Fi", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt1300854/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Thor: O Mundo Sombrio",
+    "sinopse": "Thor luta para restaurar a ordem no cosmo, mas uma antiga raça liderada pelo vingativo Malekith retorna para mergulhar o universo de volta às trevas.",
+    "sobre": "Este filme expande a cosmologia de Asgard e dos Nove Reinos. É notável por introduzir a Joia da Realidade (o Éter) e por aprofundar a complexa relação entre Thor e seu irmão Loki.",
+    "ano": 2013,
+    "genero": ["Ação", "Aventura", "Fantasia", "Super-herói"],
+    "nota_imdb": 6.8,
+    "link": "https://www.imdb.com/title/tt1981115/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Capitão América: O Soldado Invernal",
+    "sinopse": "Steve Rogers, em parceria com a Viúva Negra, luta para expor uma conspiração dentro da S.H.I.E.L.D. enquanto enfrenta um misterioso assassino conhecido como o Soldado Invernal.",
+    "sobre": "Considerado por muitos um dos melhores filmes do MCU, é um thriller de espionagem que muda drasticamente o status quo do universo, com a revelação de que a HIDRA se infiltrou na S.H.I.E.L.D.",
+    "ano": 2014,
+    "nota_imdb": 7.8,
+    "genero": ["Ação", "Aventura", "Sci-Fi", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt1843866/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/9sTDXtIIfHza1rAbmHU2djyzEXA.jpg"
+},
+{
+    "nome": "Guardiões da Galáxia",
+    "sinopse": "O aventureiro Peter Quill se torna alvo de uma caçada após roubar uma esfera cobiçada. Para escapar, ele forma uma aliança com um quarteto de desajustados: Rocket, Groot, Gamora e Drax.",
+    "sobre": "Dirigido por James Gunn, o filme foi uma aposta arriscada que se pagou imensamente, transformando personagens cósmicos desconhecidos em nomes familiares. A trilha sonora, 'Awesome Mix Vol. 1', foi um enorme sucesso.",
+    "ano": 2014,
+    "genero": ["Ação", "Aventura", "Comédia", "Sci-Fi", "Super-herói"],
+    "nota_imdb": 8.0,
+    "link": "https://www.imdb.com/title/tt2015381/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Vingadores: Era de Ultron",
+    "sinopse": "Tony Stark tenta reiniciar um programa de manutenção da paz, mas as coisas dão errado e os Vingadores precisam se unir para derrotar Ultron, um vilão tecnológico determinado a causar a extinção humana.",
+    "sobre": "O filme introduz novos personagens como Feiticeira Escarlate, Mercúrio e Visão. A trama explora as consequências das ações dos heróis e as tensões crescentes dentro da equipe, preparando o terreno para 'Guerra Civil'.",
+    "ano": 2015,
+    "nota_imdb": 7.3,
+    "genero": ["Ação", "Aventura", "Sci-Fi", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt2395427/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/uvzqTsRmUzk9mJVzX8cMSWMyM5l.jpg"
+},
+{
+    "nome": "Homem-Formiga",
+    "sinopse": "O ladrão Scott Lang deve abraçar seu herói interior e ajudar seu mentor, Dr. Hank Pym, a proteger o segredo por trás de seu espetacular traje de Homem-Formiga de uma nova geração de ameaças.",
+    "sobre": "Este filme mistura o gênero de super-herói com comédia e filme de assalto. Foi uma introdução mais leve e divertida a um novo herói, mostrando a versatilidade de tons dentro do MCU.",
+    "ano": 2015,
+    "genero": ["Ação", "Aventura", "Comédia", "Sci-Fi", "Super-herói"],
+    "nota_imdb": 7.3,
+    "link": "https://www.imdb.com/title/tt0478970/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Capitão América: Guerra Civil",
+    "sinopse": "Uma interferência política nas atividades dos Vingadores causa uma cisão entre o Capitão América e o Homem de Ferro, dividindo os heróis em duas facções opostas.",
+    "sobre": "Frequentemente chamado de 'Vingadores 2.5', o filme apresenta um confronto ideológico e físico entre os heróis. Introduziu o Pantera Negra e o Homem-Aranha (interpretado por Tom Holland) ao MCU.",
+    "ano": 2016,
+    "nota_imdb": 7.8,
+    "genero": ["Ação", "Aventura", "Sci-Fi", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt3498820/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Doutor Estranho",
+    "sinopse": "Após um acidente de carro que encerra sua carreira, um brilhante mas arrogante neurocirurgião parte em uma jornada de cura, onde descobre o mundo oculto da magia e dimensões alternativas.",
+    "sobre": "O filme introduziu o lado místico e mágico do MCU de forma explícita. É visualmente deslumbrante, com sequências que dobram a realidade, e apresentou a Joia do Tempo (o Olho de Agamotto).",
+    "ano": 2016,
+    "genero": ["Ação", "Aventura", "Fantasia", "Sci-Fi", "Super-herói"],
+    "nota_imdb": 7.5,
+    "link": "https://www.imdb.com/title/tt1211837/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Guardiões da Galáxia Vol. 2",
+    "sinopse": "Os Guardiões lutam para manter sua recém-descoberta família unida enquanto desvendam os mistérios da verdadeira ascendência de Peter Quill.",
+    "sobre": "O filme aprofunda os temas de família e amizade estabelecidos no primeiro. A trama foca no encontro de Peter Quill com seu pai, Ego, o Planeta Vivo, um Celestial interpretado por Kurt Russell.",
+    "ano": 2017,
+    "nota_imdb": 7.6,
+    "genero": ["Ação", "Aventura", "Comédia", "Sci-Fi", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt3896198/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Homem-Aranha: De Volta ao Lar",
+    "sinopse": "Peter Parker tenta equilibrar sua vida como um estudante comum no Queens com sua identidade de super-herói, o Homem-Aranha, enquanto enfrenta um novo vilão, o Abutre.",
+    "sobre": "Este filme marca a primeira aventura solo do Homem-Aranha dentro do MCU, com Tony Stark atuando como mentor de Peter. A abordagem focou mais na vida escolar do herói, trazendo um tom de filme adolescente.",
+    "ano": 2017,
+    "genero": ["Ação", "Aventura", "Sci-Fi", "Super-herói"],
+    "nota_imdb": 7.4,
+    "link": "https://www.imdb.com/title/tt2250912/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Thor: Ragnarok",
+    "sinopse": "Preso do outro lado do universo, Thor precisa correr contra o tempo para impedir o Ragnarok – a destruição de seu mundo – nas mãos da implacável vilã Hela.",
+    "sobre": "Dirigido por Taika Waititi, o filme reinventou o personagem Thor com uma abordagem muito mais cômica e colorida. A dinâmica entre Thor e Hulk, forçados a lutar como gladiadores, é um dos pontos altos.",
+    "ano": 2017,
+    "nota_imdb": 7.9,
+    "genero": ["Ação", "Aventura", "Comédia", "Fantasia", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt3501632/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Pantera Negra",
+    "sinopse": "T'Challa retorna para a nação tecnologicamente avançada de Wakanda para assumir seu lugar como rei. No entanto, um antigo adversário reaparece, colocando o destino de Wakanda e do mundo em risco.",
+    "sobre": "Dirigido por Ryan Coogler, o filme foi um marco cultural, celebrado por seu elenco predominantemente negro e sua exploração de temas como colonialismo e identidade. Foi o primeiro filme de super-herói a ser indicado ao Oscar de Melhor Filme.",
+    "ano": 2018,
+    "genero": ["Ação", "Aventura", "Sci-Fi", "Super-herói"],
+    "nota_imdb": 7.3,
+    "link": "https://www.imdb.com/title/tt1825683/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Vingadores: Guerra Infinita",
+    "sinopse": "Os Vingadores e seus aliados devem estar dispostos a sacrificar tudo em uma tentativa de derrotar o poderoso Thanos antes que sua onda de devastação coloque um fim no universo.",
+    "sobre": "Este filme é o culminar de 10 anos de histórias do MCU. Pela primeira vez, o vilão é o protagonista da narrativa, e o final chocante, onde Thanos apaga metade da vida no universo, deixou o público em todo o mundo atônito.",
+    "ano": 2018,
+    "nota_imdb": 8.4,
+    "genero": ["Ação", "Aventura", "Sci-Fi", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt4154756/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Homem-Formiga e a Vespa",
+    "sinopse": "Enquanto Scott Lang equilibra sua vida doméstica com suas responsabilidades como Homem-Formiga, ele é confrontado com uma nova missão urgente que o força a lutar ao lado da Vespa para descobrir segredos do passado.",
+    "sobre": "Lançado após os eventos sombrios de 'Guerra Infinita', este filme serviu como um alívio cômico. A trama explora o Reino Quântico, um conceito que se tornaria crucial para os eventos de 'Vingadores: Ultimato'.",
+    "ano": 2018,
+    "genero": ["Ação", "Aventura", "Comédia", "Sci-Fi", "Super-herói"],
+    "nota_imdb": 7.0,
+    "link": "https://www.imdb.com/title/tt5095030/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/5BKRuGVxx8qsB7WGSJ0oWRCHsgN.jpg"
+},
+{
+    "nome": "Homem-Aranha",
+    "sinopse": "Peter Parker é um jovem tímido e nerd que, após ser picado por uma aranha geneticamente modificada, adquire superpoderes. Ele aprende a usar suas habilidades para combater o crime, enfrentando seu primeiro grande desafio: o vilão Duende Verde.",
+    "sobre": "Dirigido por Sam Raimi, este filme foi um marco para as adaptações de super-heróis, definindo um modelo para o gênero no século XXI. A frase 'Com grandes poderes vêm grandes responsabilidades', dita por seu tio Ben, tornou-se o lema definitivo do personagem.",
+    "ano": 2002,
+    "nota_imdb": 7.4,
+    "genero": ["Ação", "Aventura", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt0145487/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Homem-Aranha 2",
+    "sinopse": "Dois anos depois, Peter Parker luta para equilibrar sua vida pessoal e seus deveres como Homem-Aranha. Ele enfrenta uma crise de identidade que o faz perder seus poderes, enquanto um novo e formidável inimigo, o Dr. Octopus, surge para ameaçar a cidade.",
+    "sobre": "Amplamente considerado um dos melhores filmes de super-heróis já feitos, 'Homem-Aranha 2' aprofunda o conflito interno de Peter Parker. O filme foi aclamado pela crítica por suas sequências de ação, desenvolvimento de personagens e pela interpretação de Alfred Molina como Dr. Octopus.",
+    "ano": 2004,
+    "genero": ["Ação", "Aventura", "Super-herói"],
+    "nota_imdb": 7.5,
+    "link": "https://www.imdb.com/title/tt0316654/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nome": "Homem-Aranha 3",
+    "sinopse": "Peter Parker finalmente consegue equilibrar sua vida como herói e seu relacionamento com Mary Jane. No entanto, uma misteriosa substância alienígena se liga ao seu traje, tornando-o mais poderoso, mas também trazendo à tona seu lado sombrio. Ele precisa lutar contra novos vilões, como o Homem-Areia e Venom, e também contra si mesmo.",
+    "sobre": "Este filme encerra a trilogia de Sam Raimi. Introduziu vilões icônicos como o Homem-Areia e Venom. Apesar de ser um sucesso de bilheteria, recebeu críticas mistas em comparação com seus predecessores.",
+    "ano": 2007,
+    "nota_imdb": 6.3,
+    "genero": ["Ação", "Aventura", "Super-herói"],
+    "link": "https://www.imdb.com/title/tt0413300/",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/5831VrgpYNPEokBwxurLVpQ3twM.jpg"
+},
+{
+    "nome": "Vingadores: Ultimato",
+    "sinopse": "Após os eventos devastadores de 'Guerra Infinita', o universo está em ruínas. Com a ajuda dos aliados restantes, os Vingadores se reúnem mais uma vez para reverter as ações de Thanos e restaurar a ordem, não importa as consequências.",
+    "sobre": "Este filme é a conclusão épica de 22 filmes interligados do Universo Cinematográfico Marvel. Tornou-se uma das maiores bilheterias da história, sendo um evento cultural que marcou o fim da 'Saga do Infinito' e a despedida de alguns dos heróis mais icônicos.",
+    "ano": 2019,
+    "genero": ["Ação", "Aventura", "Drama", "Sci-Fi", "Super-herói"],
+    "nota_imdb": 8.4,
+    "link": "https://www.imdb.com/title/tt4154796/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg"
+}
+]
